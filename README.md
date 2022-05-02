@@ -7,8 +7,8 @@ Users will input statements to filter the data for their weather preferences, wh
 
 The deliverables for this project are:
 
-** Retrieve Weather Data
+* Retrieve Weather Data
 
-** Create a Customer Travel Destinations Map
+* Create a Customer Travel Destinations Map
 
-** Create a Travel Itinerary Map
+* Create a Travel Itinerary Map
